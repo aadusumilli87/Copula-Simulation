@@ -8,7 +8,7 @@ library(copula)
 # library(MASS)
 # library(fitdistrplus)
 # Set API Key
-fredr::fredr_set_key('...') # Redacted
+fredr::fredr_set_key('....') # Redacted
 # Setup ---------------------------------------------------------------------
 # Load Data with Fredr package
 # S&P 500
